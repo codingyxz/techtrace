@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-demo/java-demo.iml" filepath="$PROJECT_DIR$/java-demo/java-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-demo/leetcode-demo.iml" filepath="$PROJECT_DIR$/leetcode-demo/leetcode-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-demo/spring-demo.iml" filepath="$PROJECT_DIR$/spring-demo/spring-demo.iml" />
     </modules>
   </component>
 </project>

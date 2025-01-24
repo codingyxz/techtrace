@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="java-demo" />
         <module name="leetcode-demo" />
-        <module name="spring-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
