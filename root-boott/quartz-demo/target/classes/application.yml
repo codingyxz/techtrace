@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: quartz-demo
+  datasource:
+    url: jdbc:mysql://8.152.195.169:33066/quartz?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useLegacyDatetimeCode=false&serverTimezone=Asia/Shanghai&allowMultiQueries=true&useSSL=false
+    username: root
+    password: 12345687
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  quartz:
+    job-store-type: jdbc
+    jdbc:
+      initialize-schema: never
+
+server:
+  address: 0.0.0.0
+  port: 8081
