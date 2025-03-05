@@ -5,7 +5,7 @@ import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Component;
 
 @Component
-public class MyEventListener {
+public class MyAnnEventListener {
 
     @EventListener(MyApplicationEvent.class)
     public void customEventListener(ApplicationEvent event){

@@ -10,6 +10,5 @@ import org.springframework.context.annotation.Import;
 
 @Configuration
 @Import({Student.class, Color.class, MyImportSelector.class, MyImportBeanDefinitionRegister.class})  // 快速注册，id默认全类名
-
 public class ImportConfig {
 }

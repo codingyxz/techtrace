@@ -16,11 +16,12 @@
         <option value="$PROJECT_DIR$/quartz-demo/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-demo/pom.xml" />
         <option value="$PROJECT_DIR$/root-boot/pom.xml" />
-        <option value="$PROJECT_DIR$/root-java/asm-demo/pom.xml" />
         <option value="$PROJECT_DIR$/root-java/leetcode-demo/pom.xml" />
         <option value="$PROJECT_DIR$/root-boott/quartz-demo/pom.xml" />
         <option value="$PROJECT_DIR$/root-boott/springboot-demo/pom.xml" />
         <option value="$PROJECT_DIR$/root-java/java-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/root-java/asm-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/root-java/jdbc-demo/pom.xml" />
       </list>
     </option>
   </component>
